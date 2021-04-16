@@ -69,9 +69,7 @@ Caltech
 
 Cornell Lab of Ornithology
 
-
-
-
+<br>
 
 ---
 
@@ -83,6 +81,7 @@ Google
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=OAtUvx0AAAAJ)
 
+<br>
 <br>
 
 ---
