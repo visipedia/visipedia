@@ -9,7 +9,7 @@ Cornell Tech
 
 [Google Scholar](https://scholar.google.com/citations?user=ORr4XJYAAAAJ&hl=en&oi=ao)
 
-
+---
 
 <img src=assets/pietro.jpeg width="140" align="left" >
 
@@ -19,9 +19,11 @@ Caltech
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=j29kMCwAAAAJ)
 
-<br>
+---
+
 <img src=assets/oisin.jpeg width="200">
-Oisin Mac Aodha
+
+## Oisin Mac Aodha
 
 <img src=assets/grant_bw_1.png width="200">
 Grant Van Horn
