@@ -11,7 +11,7 @@ Cornell Tech
 
 
 
-<img src=assets/pietro.jpeg width="200" align="left" >
+<img src=assets/pietro.jpeg width="140" align="left" >
 
 ## Pietro Perona  
 
