@@ -25,6 +25,12 @@ The iNat datasets contain images of visually similar species, captured in a wide
 [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Van_Horn_The_INaturalist_Species_CVPR_2018_paper.pdf)
 
 
+### iWildCam
+The iWildCam datasets contain diverse sets of camera trap imagery with a focus on tackling challenges in applying computer vision to ecological monitoring with static sensors, such as generalizing models to new sensor deployments or novel species or incorporating data from alternate image capture domains such as community science or satellite imagery. There are currently four different variants of the iWildCam dataset: iWildCam 2018, iWildCam 2019, iWildCam 2020, and iWildCam 2021.  
+[[URL]](https://github.com/visipedia/iwildcam_comp)
+[[Paper]](https://arxiv.org/pdf/1904.05986.pdf)
+
+
 ### Caltech Camera Traps 
 This dataset of camera trap images contains 243,100 images from 140 camera locations from the Southwestern United States. It includes labels for 21 animal categories (plus empty), along with 66,000 bounding box annotations.   
 [[URL]](https://beerys.github.io/CaltechCameraTraps/)
