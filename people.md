@@ -21,11 +21,18 @@ Caltech
 
 ---
 
-<img src=assets/oisin.jpeg width="200">
+<img src=assets/oisin.jpeg width="200" align="left">
 
 ## Oisin Mac Aodha
 
+University of Edinburough
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=IfZBjkUAAAAJ)
+
+---
+
 <img src=assets/grant_bw_1.png width="200">
+
 Grant Van Horn
 
 <img src=assets/sara.jpg width="200">
