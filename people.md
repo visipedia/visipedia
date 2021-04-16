@@ -13,7 +13,7 @@ Cornell Tech
 
 <img src=assets/pietro.jpeg width="140" align="left" >
 
-## Pietro Perona  
+## [Pietro Perona](http://www.vision.caltech.edu/Perona.html)  
 
 Caltech   
 
@@ -25,9 +25,9 @@ Caltech
 
 <img src=assets/oisin.jpeg width="140" align="left">
 
-## Oisin Mac Aodha
+## [Oisin Mac Aodha](https://homepages.inf.ed.ac.uk/omacaod/)
 
-University of Edinburough
+University of Edinburgh
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=IfZBjkUAAAAJ)
 
@@ -35,7 +35,7 @@ University of Edinburough
 
 <img src=assets/grant_bw_1.png width="140" align="left">
 
-## Grant Van Horn
+## [Grant Van Horn](https://gvanhorn38.github.io/)
 
 Cornell
 
@@ -45,7 +45,7 @@ Cornell
 
 <img src=assets/sara.jpg width="140" align="left">
 
-## Sara Beery
+## [Sara Beery](https://beerys.github.io/)
 
 Caltech
 
@@ -55,7 +55,7 @@ Caltech
 
 <img src=assets/eli.jpeg width="140" align="left">
 
-## Elijah Cole
+## [Elijah Cole](https://elijahcole.me/)
 
 Caltech
 
@@ -65,7 +65,7 @@ Caltech
 
 <img src=assets/jess.jpeg width="140" align="left">
 
-## Jess Sullivan
+## [Jess Sullivan](https://www.linkedin.com/in/jess-sullivan-49a678172)
 
 Cornell Lab of Ornithology
 
@@ -88,7 +88,7 @@ Google
 
 <img src=assets/christine.jpeg width="140" align="left">
 
-## Christine Kaeser-Chen
+## [Christine Kaeser-Chen](https://www.linkedin.com/in/christinekaeserchen)
 
 DeepMind
 
@@ -98,7 +98,7 @@ DeepMind
 
 <img src=assets/jessie.jpeg width="140" align="left">
 
-## Jessie Barry
+## [Jessie Barry](https://www.birds.cornell.edu/home/staff/jessie-barry/)
 
 Cornell Lab of Ornithology
 
@@ -108,7 +108,7 @@ Cornell Lab of Ornithology
 
 <img src=assets/cullen.jpeg width="140" align="left">
 
-## Cullen Hanks
+## [Cullen Hanks](https://www.birds.cornell.edu/home/staff/cullen-hanks/)
 
 Cornell Lab of Ornithology
 
