@@ -13,5 +13,5 @@ Visipedia is a joint project between Pietro Perona's Vision Group at Caltech and
 
 
 
-Sections: Home, Publications, [Datasets](datasets), Press, [People](people), Apps
+Sections: Home, Publications, [Datasets](/datasets.md), Press, [People](/people.md), Apps
 
