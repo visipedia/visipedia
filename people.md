@@ -1,14 +1,18 @@
 # People
 
 <img src=assets/serge.jpeg width="200">
-Serge Belongie   
+Serge Belongie 
+
 Cornell Tech  
+
 [Google Scholar](https://scholar.google.com/citations?user=ORr4XJYAAAAJ&hl=en&oi=ao)
 
 
 <img src=assets/pietro.jpeg width="200">
 Pietro Perona  
+
 Caltech   
+
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=j29kMCwAAAAJ)
 
 <img src=assets/oisin.jpeg width="200">
