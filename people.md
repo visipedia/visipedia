@@ -8,6 +8,7 @@ Cornell Tech
 [Google Scholar](https://scholar.google.com/citations?user=ORr4XJYAAAAJ&hl=en&oi=ao)
 
 
+
 <img src=assets/pietro.jpeg width="200">
 Pietro Perona  
 
