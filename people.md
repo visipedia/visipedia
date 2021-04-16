@@ -3,7 +3,7 @@
 <img src=assets/serge.jpeg width="200">
 Serge Belongie 
 
-Cornell Tech  
+Cornell Tech
 
 [Google Scholar](https://scholar.google.com/citations?user=ORr4XJYAAAAJ&hl=en&oi=ao)
 
