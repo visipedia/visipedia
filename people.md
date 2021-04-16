@@ -3,7 +3,7 @@
 
 <img align="left" width="140" src=assets/serge.jpeg>
 
-## Serge Belongie 
+## [Serge Belongie](https://vision.cornell.edu/se3/people/serge-belongie/) 
 
 Cornell Tech
 
@@ -49,28 +49,69 @@ Cornell
 
 Caltech
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=PxYY_nsAAAAJ)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=Hbr4c10AAAAJ)
 
 ---
 
 <img src=assets/eli.jpeg width="140" align="left">
-Elijah Cole
 
+## Elijah Cole
+
+Caltech
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=-atuVWQAAAAJ)
+
+---
 
 <img src=assets/jess.jpeg width="140" align="left">
-Jess Sullivan
+
+## Jess Sullivan
+
+Cornell Lab of Ornithology
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=PxYY_nsAAAAJ)
+
+---
 
 <img src=assets/kimberly.jpeg width="140" align="left">
-Kimberly Wilber
+
+## Kimberly Wilber
+
+Google
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=PxYY_nsAAAAJ)
+
+---
 
 <img src=assets/christine.jpeg width="140" align="left">
-Christine Kaeser-Chen
+
+## Christine Kaeser-Chen
+
+DeepMind
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=PxYY_nsAAAAJ)
+
+---
 
 <img src=assets/jessie.jpeg width="140" align="left">
-Jessie Barry
+
+## Jessie Barry
+
+Cornell Lab of Ornithology
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=PxYY_nsAAAAJ)
+
+---
 
 <img src=assets/cullen.jpeg width="140" align="left">
-Cullen Hanks
+
+## Cullen Hanks
+
+Cornell Lab of Ornithology
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=PxYY_nsAAAAJ)
+
+---
 
 ## Alumni
 
