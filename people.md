@@ -7,7 +7,7 @@ Cornell Tech
 
 [Google Scholar](https://scholar.google.com/citations?user=ORr4XJYAAAAJ&hl=en&oi=ao)
 
-
+<br>
 
 <img src=assets/pietro.jpeg width="200" align="left" >
 Pietro Perona  
@@ -16,6 +16,7 @@ Caltech
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=j29kMCwAAAAJ)
 
+<br>
 <img src=assets/oisin.jpeg width="200">
 Oisin Mac Aodha
 
