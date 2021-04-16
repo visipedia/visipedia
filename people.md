@@ -9,7 +9,7 @@ Cornell Tech
 
 
 
-<img src=assets/pietro.jpeg width="200">
+<img src=assets/pietro.jpeg width="200" align="left" >
 Pietro Perona  
 
 Caltech   
