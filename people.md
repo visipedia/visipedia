@@ -20,7 +20,6 @@ Caltech
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=j29kMCwAAAAJ)
 
 <br>
-<br>
 
 ---
 
@@ -34,30 +33,43 @@ University of Edinburough
 
 ---
 
-<img src=assets/grant_bw_1.png width="200">
+<img src=assets/grant_bw_1.png width="140" align="left">
 
-Grant Van Horn
+## Grant Van Horn
 
-<img src=assets/sara.jpg width="200">
-Sara Beery
+Cornell
 
-<img src=assets/eli.jpeg width="200">
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=PxYY_nsAAAAJ)
+
+---
+
+<img src=assets/sara.jpg width="140" align="left">
+
+## Sara Beery
+
+Caltech
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=PxYY_nsAAAAJ)
+
+---
+
+<img src=assets/eli.jpeg width="140" align="left">
 Elijah Cole
 
 
-<img src=assets/jess.jpeg width="200">
+<img src=assets/jess.jpeg width="140" align="left">
 Jess Sullivan
 
-<img src=assets/kimberly.jpeg width="200">
+<img src=assets/kimberly.jpeg width="140" align="left">
 Kimberly Wilber
 
-<img src=assets/christine.jpeg width="200">
+<img src=assets/christine.jpeg width="140" align="left">
 Christine Kaeser-Chen
 
-<img src=assets/jessie.jpeg width="200">
+<img src=assets/jessie.jpeg width="140" align="left">
 Jessie Barry
 
-<img src=assets/cullen.jpeg width="200">
+<img src=assets/cullen.jpeg width="140" align="left">
 Cullen Hanks
 
 ## Alumni
