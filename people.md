@@ -30,6 +30,7 @@ Sara Beery
 Elijah Cole
 
 
+<img src=assets/jess.jpeg width="200">
 Jess Sullivan
 
 <img src=assets/kimberly.jpeg width="200">
