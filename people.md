@@ -69,7 +69,9 @@ Caltech
 
 Cornell Lab of Ornithology
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=PxYY_nsAAAAJ)
+
+
+
 
 ---
 
@@ -79,7 +81,9 @@ Cornell Lab of Ornithology
 
 Google
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=PxYY_nsAAAAJ)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=OAtUvx0AAAAJ)
+
+<br>
 
 ---
 
@@ -89,7 +93,7 @@ Google
 
 DeepMind
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=PxYY_nsAAAAJ)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=D9VWpjoAAAAJ)
 
 ---
 
@@ -99,7 +103,7 @@ DeepMind
 
 Cornell Lab of Ornithology
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=PxYY_nsAAAAJ)
+<br>
 
 ---
 
@@ -109,7 +113,7 @@ Cornell Lab of Ornithology
 
 Cornell Lab of Ornithology
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=PxYY_nsAAAAJ)
+<br>
 
 ---
 
