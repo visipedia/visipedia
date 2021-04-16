@@ -19,9 +19,12 @@ Caltech
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=j29kMCwAAAAJ)
 
+<br>
+<br>
+
 ---
 
-<img src=assets/oisin.jpeg width="200" align="left">
+<img src=assets/oisin.jpeg width="140" align="left">
 
 ## Oisin Mac Aodha
 
