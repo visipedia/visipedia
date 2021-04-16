@@ -1,5 +1,6 @@
 # People
 
+<p>
 <img align="left" width="200" src=assets/serge.jpeg>
 Serge Belongie 
 
@@ -7,7 +8,7 @@ Cornell Tech
 
 [Google Scholar](https://scholar.google.com/citations?user=ORr4XJYAAAAJ&hl=en&oi=ao)
 
-<br>
+</p>
 
 <img src=assets/pietro.jpeg width="200" align="left" >
 Pietro Perona  
