@@ -3,7 +3,7 @@
 
 <img align="left" width="200" src=assets/serge.jpeg>
 
-# Serge Belongie 
+## Serge Belongie 
 
 Cornell Tech
 
@@ -12,7 +12,8 @@ Cornell Tech
 
 
 <img src=assets/pietro.jpeg width="200" align="left" >
-Pietro Perona  
+
+## Pietro Perona  
 
 Caltech   
 
