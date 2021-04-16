@@ -1,6 +1,6 @@
 # People
 
-![image](assets/serge.jpeg){: style="float: left"}
+<img align="left" width="200" src=assets/serge.jpeg>
 Serge Belongie 
 
 Cornell Tech
