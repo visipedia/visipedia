@@ -1,7 +1,7 @@
 # People
 
 
-<img align="left" width="100" src=assets/serge.jpeg>
+<img align="left" width="150" src=assets/serge.jpeg>
 
 ## Serge Belongie 
 
