@@ -2,7 +2,8 @@
 
 
 <img align="left" width="200" src=assets/serge.jpeg>
-## Serge Belongie 
+
+# Serge Belongie 
 
 Cornell Tech
 
