@@ -1,9 +1,9 @@
 # People
 
 
-<img align="left" width="140" src=assets/serge.jpeg>
+<img align="left" width="140" src="assets/serge.jpeg">
 
-## [Serge Belongie](https://vision.cornell.edu/se3/people/serge-belongie/) 
+## [Serge Belongie](https://vision.cornell.edu/se3/people/serge-belongie/)
 
 Cornell Tech
 
@@ -11,7 +11,7 @@ Cornell Tech
 
 ---
 
-<img src=assets/pietro.jpeg width="140" align="left" >
+<img width="140" align="left" src="assets/pietro.jpeg">
 
 ## [Pietro Perona](http://www.vision.caltech.edu/Perona.html)  
 
@@ -23,7 +23,7 @@ Caltech
 
 ---
 
-<img src=assets/oisin.jpeg width="140" align="left">
+<img width="140" align="left" src="assets/oisin.jpeg">
 
 ## [Oisin Mac Aodha](https://homepages.inf.ed.ac.uk/omacaod/)
 
@@ -33,7 +33,7 @@ University of Edinburgh
 
 ---
 
-<img src=assets/grant_bw_1.png width="140" align="left">
+<img width="140" align="left" src="assets/grant_bw_1.png">
 
 ## [Grant Van Horn](https://gvanhorn38.github.io/)
 
@@ -43,7 +43,7 @@ Cornell
 
 ---
 
-<img src=assets/sara.jpg width="140" align="left">
+<img width="140" align="left" src="assets/sara.jpg">
 
 ## [Sara Beery](https://beerys.github.io/)
 
@@ -53,7 +53,7 @@ Caltech
 
 ---
 
-<img src=assets/eli.jpeg width="140" align="left">
+<img  width="140" align="left" src="assets/eli.jpeg">
 
 ## [Elijah Cole](https://elijahcole.me/)
 
@@ -63,7 +63,7 @@ Caltech
 
 ---
 
-<img src=assets/jess.jpeg width="140" align="left">
+<img width="140" align="left" src="assets/jess.jpeg">
 
 ## [Jess Sullivan](https://www.linkedin.com/in/jess-sullivan-49a678172)
 
@@ -73,7 +73,7 @@ Cornell Lab of Ornithology
 
 ---
 
-<img src=assets/kimberly.jpeg width="140" align="left">
+<img width="140" align="left" src="assets/kimberly.jpeg">
 
 ## Kimberly Wilber
 
@@ -86,7 +86,7 @@ Google
 
 ---
 
-<img src=assets/christine.jpeg width="140" align="left">
+<img width="140" align="left" src="assets/christine.jpeg">
 
 ## [Christine Kaeser-Chen](https://www.linkedin.com/in/christinekaeserchen)
 
@@ -96,7 +96,7 @@ DeepMind
 
 ---
 
-<img src=assets/jessie.jpeg width="140" align="left">
+<img width="140" align="left" src="assets/jessie.jpeg">
 
 ## [Jessie Barry](https://www.birds.cornell.edu/home/staff/jessie-barry/)
 
@@ -106,7 +106,7 @@ Cornell Lab of Ornithology
 
 ---
 
-<img src=assets/cullen.jpeg width="140" align="left">
+<img width="140" align="left" src="assets/cullen.jpeg">
 
 ## [Cullen Hanks](https://www.birds.cornell.edu/home/staff/cullen-hanks/)
 
@@ -133,6 +133,3 @@ Genevieve Patterson
 Tomas Matera
 
 Jan Jakes
-
-
-
