@@ -13,7 +13,7 @@ If you wish to learn more about Visipedia, a good place to start is [here](http:
 
 Visipedia is also affiliated with the Workshop on Fine-Grained Visual Categorization. The latest incarnation is [FGVC8](https://sites.google.com/view/fgvc8).  
 
-Visipedia is a joint project between Pietro Perona's Vision Group at Caltech and Serge Belongie's Vision Group at Cornell Tech.  
+Visipedia is a joint project between Pietro Perona's [Vision Group at Caltech](http://www.vision.caltech.edu/index.html) and Serge Belongie's [Vision Group at Cornell Tech](https://vision.cornell.edu/se3/).  
 
 
 
