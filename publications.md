@@ -17,3 +17,5 @@
 * [Crowdclustering](https://papers.nips.cc/paper/2011/hash/c86a7ee3d8ef0b551ed58e354a836f2b-Abstract.html), *NeurIPS* 2011
 * [Multiclass recognition and part localization with humans in the loop](https://ieeexplore.ieee.org/abstract/document/6126539), *ICCV* 2011 
 * [Visions of a Visipedia](https://ieeexplore.ieee.org/abstract/document/5477158?casa_token=OzYTkIUDtJkAAAAA:bpdzEqSU0ZPmQ2z91jkLTJ-hHKr0mxoS59uUruzt9RQNRL3Pm57xdN7Z2weegMd6Tx220odZ9Q), *Proceedings of the IEEE* 2010
+* [The Multidimensional Wisdom of Crowds](https://proceedings.neurips.cc/paper/2010/file/0f9cafd014db7a619ddb4276af0d692c-Paper.pdf), *NeurIPS* 2010
+* [Learning and using taxonomies for fast visual categorization](https://ieeexplore.ieee.org/abstract/document/4587410), *CVPR* 2008
