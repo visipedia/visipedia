@@ -1,6 +1,3 @@
-
-# Visipedia
-
 ![image](assets/header.png)
 
 Visipedia is an academic project that investigates new machine learning techniques and systems for empowering communities of experts.  Visipedia uses machine learning to harness crowdsourced expertise, and deploy that expertise in a utilitarian way. Visipedia has demonstrated success working with the naturalist community to automate the classification of species in images in a way that helps grow the size and capacity of the community of experts. The result is a self reinforcing system of knowledge.
