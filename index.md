@@ -7,7 +7,7 @@ Visipedia is an academic project that investigates new machine learning techniqu
 
 Two of our most successful collaborations have been with the eBird and  iNaturalist communities. The eBird community is generating a robust global dataset of bird images that already includes over 95% of species on Earth. Visipedia is using this dataset to automate photo identification, a feature deployed in the Merlin Bird ID application.  As part of the Merlin Bird ID app, this tool is helping expand bird identification expertise around the world.
 
-With iNaturalist, Visipedia is expanding beyond birds to all life on earth.  The iNaturalist dataset is a global dataset covering all taxonomic groups, but is continuously adding data and species.  Visipedia is constantly retraining with this data and deploying back to the community through the iNaturalist and Seek apps.  In this way, Visipedia is using the iNaturalist dataset to help power the iNaturalist communities capacity as they expand geographic and taxonomic coverage. You can demo the computer vision system here. 
+With iNaturalist, Visipedia is expanding beyond birds to all life on earth.  The iNaturalist dataset is a global dataset covering all taxonomic groups, but is continuously adding data and species.  Visipedia is constantly retraining with this data and deploying back to the community through the iNaturalist and Seek apps.  In this way, Visipedia is using the iNaturalist dataset to help power the iNaturalist communities capacity as they expand geographic and taxonomic coverage. 
 
 If you wish to learn more about Visipedia, a good place to start is [here](http://www.vision.caltech.edu/publications/perona-ProcIEEE-final.pdf).
 
