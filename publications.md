@@ -1,5 +1,11 @@
 # Selected Publications
 
+* [On Label Granularity and Object Localization](https://arxiv.org/abs/2207.10225) *ECCV* 2022  
+* [Visual Knowledge Tracing](https://arxiv.org/abs/2207.10157) *ECCV* 2022  
+* [Exploring Fine-grained Audiovisual Categorization with the SSW60 Dataset](https://arxiv.org/abs/2207.10664) *ECCV* 2022  
+* [When Does Contrastive Visual Representation Learning Work?](https://arxiv.org/abs/2105.05837) *CVPR* 2022  
+* [Fine-Grained Image Analysis with Deep Learning: A Survey](https://arxiv.org/abs/2111.06119) *PAMI* 2021 
+* [Focus on the Positives: Self-Supervised Learning for Biodiversity Monitoring](https://arxiv.org/abs/2108.06435) *ICCV* 2021 
 * [Benchmarking Representation Learning for Natural World Image Collections](https://arxiv.org/abs/2103.16483) *CVPR* 2021 
 * [Geocoding of trees from street addresses and street-level images](https://www.sciencedirect.com/science/article/abs/pii/S0924271620300356), *ISPRS Journal of Photogrammetry and Remote Sensing* 2020
 * [Context R-CNN: Long Term Context for Per-Camera Object Detection](https://openaccess.thecvf.com/content_CVPR_2020/html/Beery_Context_R-CNN_Long_Term_Temporal_Context_for_Per-Camera_Object_Detection_CVPR_2020_paper.html) *CVPR* 2020
