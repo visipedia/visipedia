@@ -54,3 +54,8 @@ A new suite of challenging natural world visual benchmark tasks that are motivat
 [[URL]](https://github.com/visipedia/newt)
 [[Paper]](https://arxiv.org/pdf/2103.16483.pdf)
 
+
+### SSW60 
+Sapsucker Woods 60 (SSW60), a dataset for advancing research on audiovisual fine-grained categorization. It covers 60 species of birds that all occur in a specific geographic location: Sapsucker Woods, Ithaca, NY. It is comprised of images from existing datasets, along with expert curated audio and video data.
+[[URL]](https://github.com/visipedia/ssw60)
+[[Paper]](https://arxiv.org/pdf/2207.10664.pdf)
