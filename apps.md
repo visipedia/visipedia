@@ -2,8 +2,8 @@
 
 Visipedia technology can be found in the apps listed below. There is also some example code for model training and annotation interfaces on our Github [page](https://github.com/visipedia). 
 
-### Merlin Photo ID 
-On device bird species classification from images.   
+### Merlin Photo and Sound ID 
+On device bird species classification from images and audio.   
 [More information.](https://merlin.allaboutbirds.org/)
 
 

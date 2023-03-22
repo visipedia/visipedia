@@ -59,3 +59,8 @@ A new suite of challenging natural world visual benchmark tasks that are motivat
 Sapsucker Woods 60 (SSW60) is a dataset for advancing research on audiovisual fine-grained categorization. It covers 60 species of birds that all occur in a specific geographic location: Sapsucker Woods, Ithaca, NY. It is comprised of images from existing datasets, along with new expert curated audio and video data.  
 [[URL]](https://github.com/visipedia/ssw60)
 [[Paper]](https://arxiv.org/pdf/2207.10664.pdf)
+
+### Caltech Fish Counting (CFC) 
+The Caltech Fish Counting Dataset (CFC) is a large-scale dataset for detecting, tracking, and counting fish in sonar videos. It provides a rich source of data for advancing low signal-to-noise computer vision applications and tackling domain generalization for multiple-object tracking and counting. The dataset contains over half a million annotations in over 1,500 videos sourced from seven different sonar cameras.
+[[URL]](https://github.com/visipedia/caltech-fish-counting)
+[[Paper]](https://arxiv.org/abs/2207.09295)

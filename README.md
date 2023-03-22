@@ -1,2 +1,2 @@
-# visipedia
+# Visipedia
 Visipedia Webpage
