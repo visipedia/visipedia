@@ -118,6 +118,30 @@ Cornell Lab of Ornithology
 
 ---
 
+<img width="140" align="left" src="assets/suzanne.jpeg">
+
+## [Suzanne Stathatos](https://suzanne-stathatos.github.io/)
+
+Caltech
+
+[Google Scholar](https://scholar.google.com/citations?user=JAAaAIcAAAAJ)
+
+<br>
+
+---
+
+<img width="140" align="left" src="assets/justin.jpeg">
+
+## [Justin Kay](https://justinkay.github.io/)
+
+Caltech
+
+[Google Scholar](https://scholar.google.com/citations?user=Qurq7foAAAAJ)
+
+<br>
+
+---
+
 ## Alumni
 
 Steve Branson

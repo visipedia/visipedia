@@ -3,6 +3,7 @@
 * [On Label Granularity and Object Localization](https://arxiv.org/abs/2207.10225) *ECCV* 2022  
 * [Visual Knowledge Tracing](https://arxiv.org/abs/2207.10157) *ECCV* 2022  
 * [Exploring Fine-grained Audiovisual Categorization with the SSW60 Dataset](https://arxiv.org/abs/2207.10664) *ECCV* 2022  
+* [The Caltech Fish Counting Dataset: A Benchmark for Multiple-Object Tracking and Counting](https://arxiv.org/abs/2207.09295) *ECCV* 2022  
 * [When Does Contrastive Visual Representation Learning Work?](https://arxiv.org/abs/2105.05837) *CVPR* 2022  
 * [Fine-Grained Image Analysis with Deep Learning: A Survey](https://arxiv.org/abs/2111.06119) *PAMI* 2021 
 * [Focus on the Positives: Self-Supervised Learning for Biodiversity Monitoring](https://arxiv.org/abs/2108.06435) *ICCV* 2021 

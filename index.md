@@ -6,11 +6,11 @@ Two of our most successful collaborations have been with the eBird and  iNatural
 
 With iNaturalist, Visipedia is expanding beyond birds to all life on earth.  The iNaturalist dataset is a global dataset covering all taxonomic groups, but is continuously adding data and species.  Visipedia is constantly retraining with this data and deploying back to the community through the iNaturalist and Seek apps.  In this way, Visipedia is using the iNaturalist dataset to help power the iNaturalist communities capacity as they expand geographic and taxonomic coverage. 
 
-If you wish to learn more about Visipedia, a good place to start is [here](http://www.vision.caltech.edu/publications/perona-ProcIEEE-final.pdf).
+If you wish to learn more about Visipedia, a good place to start is [here](https://ieeexplore.ieee.org/iel5/5/5512706/05477158.pdf) and [here](https://www.sciencedirect.com/science/article/abs/pii/S0167865515004092).
 
-Visipedia is also affiliated with the Workshop on Fine-Grained Visual Categorization. The latest incarnation is [FGVC8](https://sites.google.com/view/fgvc8).  
+Visipedia is also affiliated with the Workshop on Fine-Grained Visual Categorization. The latest incarnation is [FGVC10](sites.google.com/view/fgvc10).  
 
-Visipedia is a joint project between Pietro Perona's [Vision Group at Caltech](http://www.vision.caltech.edu/index.html) and Serge Belongie's [Vision Group at Cornell Tech](https://vision.cornell.edu/se3/).  
+Visipedia is a joint project between Pietro Perona's [Vision Group at Caltech](http://www.vision.caltech.edu/index.html) and Serge Belongie's [Vision Group at Cornell Tech and University of Copenhagen](https://www.belongielab.org/).  
 
 
 
