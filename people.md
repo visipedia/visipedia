@@ -53,7 +53,7 @@ Cornell Lab of Ornithology
 
 ## [Sara Beery](https://beerys.github.io/)
 
-Caltech
+MIT
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=Hbr4c10AAAAJ)
 
