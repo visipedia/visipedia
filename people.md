@@ -134,9 +134,21 @@ Caltech
 
 ## [Justin Kay](https://justinkay.github.io/)
 
-Caltech
+MIT
 
 [Google Scholar](https://scholar.google.com/citations?user=Qurq7foAAAAJ)
+
+<br>
+
+---
+
+<img width="140" align="left" src="assets/nico.jpg">
+
+## [Nico Lang](https://langnico.github.io)
+
+University of Copenhagen 
+
+[Google Scholar](https://scholar.google.ch/citations?user=bVZtKsQAAAAJ)
 
 <br>
 
