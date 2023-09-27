@@ -10,7 +10,7 @@ If you wish to learn more about Visipedia, a good place to start is <a href="htt
 
 Visipedia is also affiliated with the Workshop on Fine-Grained Visual Categorization. The latest incarnation is <a href="https://sites.google.com/view/fgvc10" target="_blank">FGVC10</a>. 
 
-Visipedia is a joint project between Pietro Perona's <a href="https://www.vision.caltech.edu/index.html" target="_blank">Vision Group at Caltech</a> and Serge Belongie's <a href="https://www.belongielab.org/" target="_blank">Vision Group at Cornell Tech and University of Copenhagen</a>.
+Visipedia is a joint project between Pietro Perona's <a href="https://www.vision.caltech.edu/index.html" target="_blank">Vision Group at Caltech</a>, Serge Belongie's <a href="https://www.belongielab.org/" target="_blank">Vision Group at Cornell Tech and University of Copenhagen</a>, Oisin Mac Aodha's <a href="https://homepages.inf.ed.ac.uk/omacaod/" target="_blank">Group at University of Edinburgh</a>, Sara Beery's <a href="https://beerys.github.io/#research_group" target="_blank">Group at Massachusetts Institute of Technology</a>, and Grant Van Horn's <a href="https://gvh.codes/" target="_blank">Group at University of Massachusetts Amherst</a>.
 
 
 
