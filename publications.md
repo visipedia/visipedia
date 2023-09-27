@@ -1,5 +1,8 @@
 # Selected Publications
 
+* [Incremental Generalized Category Discovery](https://arxiv.org/abs/2304.14310) *ICCV* 2023  
+* [Spatial Implicit Neural Representations for Global-Scale Species Mapping](https://arxiv.org/abs/2306.02564) *ICML* 2023  
+* [SVL-Adapter: Self-Supervised Adapter for Vision-Language Pretrained Models](https://arxiv.org/abs/2210.03794) *BMVC* 2022  
 * [On Label Granularity and Object Localization](https://arxiv.org/abs/2207.10225) *ECCV* 2022  
 * [Visual Knowledge Tracing](https://arxiv.org/abs/2207.10157) *ECCV* 2022  
 * [Exploring Fine-grained Audiovisual Categorization with the SSW60 Dataset](https://arxiv.org/abs/2207.10664) *ECCV* 2022  
