@@ -41,7 +41,7 @@ University of Edinburgh
 
 ## [Grant Van Horn](https://gvanhorn38.github.io/)
 
-Cornell Lab of Ornithology
+University of Massachusetts Amherst / Cornell Lab of Ornithology
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=PxYY_nsAAAAJ)
 
