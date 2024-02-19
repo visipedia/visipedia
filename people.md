@@ -65,7 +65,7 @@ MIT
 
 ## [Elijah Cole](https://elijahcole.me/)
 
-Caltech
+Altos Labs
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=-atuVWQAAAAJ)
 
